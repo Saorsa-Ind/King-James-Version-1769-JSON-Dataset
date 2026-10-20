@@ -1,6 +1,6 @@
 # King James Version (1769) — JSON Dataset
 
-A public-domain, machine-readable dataset of the **1769 King James Version (KJV) Bible**, containing the 66 books of the Old and New Testaments.
+A public domain, machine readable dataset of the **1769 King James Version (KJV) Bible**, containing the 66 books of the Old and New Testaments.
 
 The text is organized by book, chapter, and verse in JSON format. It is provided by **Saorsa Industries** for anyone to use, adapt, analyze, or incorporate into their own projects, for any purpose.
 
